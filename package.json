@@ -6,7 +6,7 @@
   "author": "RubensLFerreira <rubenslima000@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start:dev": "tsx --watch src/server.ts"
+    "start:dev": "tsx --watch src/index.ts"
   },
   "devDependencies": {
     "prisma": "^5.12.1",
